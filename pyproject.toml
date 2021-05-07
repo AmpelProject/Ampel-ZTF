@@ -55,7 +55,7 @@ light-curve-python = "^0.2.5"
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.4"
 pytest-cov = "^2.11.1"
-pytest-mock = "^3.6.0"
+pytest-mock = "^3.6.1"
 mongomock = "^3.22.1"
 mypy = "^0.812"
 pytest-timeout = "^1.4.2"
